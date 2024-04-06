@@ -14,7 +14,7 @@ env:
   CACHE_TOOLCHAIN: true
   UPLOAD_BIN_DIR: false
   FIRMWARE_RELEASE: true
-  FIRMWARE_TAG: 360v6
+  FIRMWARE_TAG: 360v6K6.1
   TZ: Asia/Shanghai
 
 jobs:
